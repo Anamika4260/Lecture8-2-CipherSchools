@@ -1,0 +1,4 @@
+Functions -2
+
+every function can return only one value
+every function can have multiple return statements
